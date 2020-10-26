@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hey Buddy 👋
 
 <!--
 **DSKarthikeyan/DSKarthikeyan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -20,13 +20,15 @@ Here are some ideas to get you started:
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dskarthikeyan&label=Profile%20views&color=0e75b6&style=flat" alt="dskarthikeyan" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dskarthikeyan" alt="dskarthikeyan" /></a> </p>
+- 🔭 I’m currently working on [FastShare - File Share & Receive (Shareit Xender)](https://play.google.com/store/apps/details?id=com.dsk.fastshare)
 
 - 🌱 I’m currently learning **Flutter**
 
 - 💬 Ask me about **Java, Kotlin**
 
 - 📫 How to reach me **karthikeyands92@gmail.com**
+
+- 📄 Know about my experiences [https://drive.google.com/file/d/16y6-HxuCi6pbYmDBBsaueFYDSft0FgJ3/view](https://drive.google.com/file/d/16y6-HxuCi6pbYmDBBsaueFYDSft0FgJ3/view)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
