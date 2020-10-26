@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 <h1 align="center">Hi 👋, I'm Karthikeyan D S</h1>
-<h3 align="center">A passionate Android and Hybrid Mobile from TamilNadu</h3>
+<h3 align="center">A passionate Android and Hybrid Mobile Developer from TamilNadu</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dskarthikeyan&label=Profile%20views&color=0e75b6&style=flat" alt="dskarthikeyan" /> </p>
 
