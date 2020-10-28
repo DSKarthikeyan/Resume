@@ -1,8 +1,6 @@
-### Hey Buddy 👋
-
 <!--
 **DSKarthikeyan/DSKarthikeyan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+### Hey Buddy 👋
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -15,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1 align="center">Hi 👋, I'm DsK</h1>
+<h1 align="center">Hey Buddy 👋, I'm DsK</h1>
 <h3 align="center">A passionate Android and Hybrid Mobile Developer from TamilNadu</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dskarthikeyan&label=Profile%20views&color=0e75b6&style=flat" alt="dskarthikeyan" /> </p>
