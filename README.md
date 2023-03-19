@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on [FastShare - File Share & Receive (Shareit Xender)](https://play.google.com/store/apps/details?id=com.dsk.fastshare)
 
-- 🌱 I’m currently learning **Flutter**
+- 🌱 I’m currently learning **JetPack Compose**
 
 - 💬 Ask me about **Java, Kotlin**
 
