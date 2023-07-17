@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1 align="center">Hey Buddy 👋, I'm DsK</h1>
+<h1 align="center">Hey Buddy 👋, I'm Karthikeyan D S </h1>
 <h3 align="center">A passionate Android Mobile Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dskarthikeyan&label=Profile%20views&color=0e75b6&style=flat" alt="dskarthikeyan" /> </p>
@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 
 - 📫 How to reach me **karthikeyands92@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/14wUBjEURoqVwfoCTNJc6cwp-vIydUIy-/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1A-5cPC3LjdFNtiTEgU8ZCVHHNDLnO8xo/view?usp=drivesdk)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
